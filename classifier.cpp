@@ -1,7 +1,7 @@
 void train() {
 
 printf("Train");
-printf("he second feature is added");
+printf("The second feature is added");
   
 }
 

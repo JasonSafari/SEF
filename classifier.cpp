@@ -4,3 +4,9 @@ printf("Train");
 
   
 }
+
+void predict() {
+
+printf("Predict");
+  
+}

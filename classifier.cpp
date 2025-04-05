@@ -1,13 +1,13 @@
 void train() {
 
 printf("Train");
-printf("The first feature is added");
+printf("The second feature is added");
   
 }
 
 void predict() {
 
 printf("Predict");
-printf("he second feature is added");
+
   
 }
